@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Loralighte
+I am Loralighte, also known as Kai Lyons, also known as "That one annoying opinionated asshole I know", "that one fuckface", and president of The Potabi Foundation. I generally work on Linux and xBSD projects, and have a general obsession with OS development work.
 
-You can use the [editor on GitHub](https://github.com/loralighte/loralighte.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Pronouns: They/She/It
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Kai Lyons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loralighte)](https://github.com/anuraghazra/github-readme-stats) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loralighte)](https://github.com/anuraghazra/github-readme-stats)
 
-### Markdown
+#### Current Projects:
+- [`Potabi`](https://potabi.com): A CoreNGS-based desktop/server/mobile OS.
+- [`KISPM`](https://kispm.github.io/): An experimental concept package manager written in C++
+- [`LiSoSy`](https://lisosy.ws/): A customizable Linux from source compiler and distribution system.
+- [`CoreNGS`](https://corengs.one/): A Unix-like system built for ease and application programming interface integrations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Currently Learning:
+- V language development
+- D language development
+- C# / .NET development
+- .NET UI libraries (Uno, and Avalonia)
+- LVGL
 
-```markdown
-Syntax highlighted code block
+#### Interested in:=
+- Operating systems
+- Domain name extensions and their history and proper uses
+- Unix + .NET 
 
-# Header 1
-## Header 2
-### Header 3
+#### Looking for help with:
+- Building Potabi
+  - Resources like better hardware
+  - Application development
+  - General helping hands
 
-- Bulleted
-- List
+#### Ask me about:
+- LGBTQIA+ friendly communities in open-source
+- Help with FreeBSD/CoreNGS/Potabi Systems
 
-1. Numbered
-2. List
+#### Where I can collaborate
+- Building projects based on Illumos
+- Adding your software to potabi
+- Helping with automation Scripts
 
-**Bold** and _Italic_ and `Code` text
+#### How to reach me:
+Email: kai@potabi.com \
+Telegram: @Loralighte \
+Discord: Loralighte#6583 \
+IRC: `/msg KaiLyons` on [Libera.chat](https://libera.chat) (I am not very active on IRC)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loralighte/loralighte.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### My software stack:
+- Operating Systems: elementaryOS, `Pop!_OS`, FreeBSD, OpenIndiana, Potabi
+- Code Editor: VSCode, NANO
+- Graphics: Glipmse, Inkscape, KDENLIVE
+- Diagrams: Draw.io, Dia
+- Communications: Discord, Telegram, Jitsi, Twitter, Skype, and Slack 
+- Email: Zoho mail
+- IRC client: Pidgin, qicr lite
